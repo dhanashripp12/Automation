@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T15:55:29 EDT" name="Default suite" finished-at="2023-05-30T15:56:02 EDT" duration-ms="33079">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T15:55:29 EDT" name="Default test" finished-at="2023-05-30T15:56:02 EDT" duration-ms="33079">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@3c19aaa5]" started-at="2023-05-30T15:55:29 EDT" name="Initalization" finished-at="2023-05-30T15:55:56 EDT" duration-ms="27384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:0, instance:com.test.MultiTest@3c19aaa5]" started-at="2023-05-30T15:55:56 EDT" name="SelectDropDown" finished-at="2023-05-30T15:55:59 EDT" duration-ms="2422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="MouseHovering()[pri:0, instance:com.test.MultiTest@3c19aaa5]" started-at="2023-05-30T15:55:59 EDT" name="MouseHovering" finished-at="2023-05-30T15:56:01 EDT" depends-on-methods="com.test.MultiTest.SelectDropDown" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHovering -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.MultiTest@3c19aaa5]" started-at="2023-05-30T15:56:01 EDT" name="CleanUp" finished-at="2023-05-30T15:56:02 EDT" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.MultiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

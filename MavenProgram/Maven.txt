@@ -1,0 +1,39 @@
+we need to store our code in one of the repository 
+
+bitbucket/github/gitlab -
+
+they have multiple option where any of the team member can review the code and they put any comment as well  and
+ if any thing they want to edit they can edit as well - we can run our code with the help of git hub action as well or we can connect wit
+ ci/cd pipeline
+ 
+ 
+ we need to run our code from jenkins as well 
+ 
+ what is jenkins - jenkins is a CI /Cd tool - continues integration and deployment tool
+ 
+ 
+ Dev Environment - that mean the url of developer is different
+ 
+ when application and some feature is developed in dev environment they will move to QA person for testing
+ 
+ Qa person will test the application on Testing Environment - UAT Environment - Production - Live 
+ 
+ jenkins will execute our scenario with the help of pom.xml only
+ 
+ 
+ 
+ jenkins - pom.xml - .testng.xml - scripting - main functionaliy - page object model
+ 
+ 
+ How to get Data from Excel Sheet  -- 
+ 
+ 
+ mansari1187@gmail.com
+ 
+ 2 to 3
+ 
+ 
+ 
+ 
+ 
+ 
